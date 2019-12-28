@@ -1,9 +1,5 @@
 # big O
 
-Created By: Sergey Surganov
-Last Edited: Dec 28, 2019 11:31 PM
-Tags: Important, Marketing
-
 ### big O의 개념
 
 ---
